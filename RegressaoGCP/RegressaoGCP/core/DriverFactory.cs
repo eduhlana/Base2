@@ -14,9 +14,9 @@ namespace RegressaoGCP.core
             if (driver == null)
             {
                 ChromeOptions options = new ChromeOptions();
-               // options.AddArguments("headless");
+                //options.AddArguments("headless");
                 options.AddArguments("window-size=1920x1080");
-                driver = new ChromeDriver(options); ;
+                driver = new ChromeDriver(options); 
             }
             return driver;
         }

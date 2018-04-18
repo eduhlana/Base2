@@ -3,13 +3,14 @@ using OpenQA.Selenium;
 
 namespace RegressaoGCP.page
 {
+
     public class AbrangComercialPage : BasePage
     {
        
         public void MenuAbrangComercial(string texto)
         {
            
-            acao(By.CssSelector(texto));
+            acao(By.XPath(texto));
         }
         public void Incluir(string texto)
         {
@@ -17,20 +18,25 @@ namespace RegressaoGCP.page
         }
         public void InserirCodVenda(string texto , string codvenda)
         {
+            AguardaId(texto);
             Escrever(By.Id(texto), codvenda);
-             
-    }
+        }
         public void SelecionarAbrang(string texto)
         {
-            acao(By.CssSelector(texto)); 
+            acao(By.XPath(texto)); 
         }
         public void InsereCiclo(string texto , string ciclo)
         {
+            acao(By.Id(texto));
             SelectValue(By.Id(texto),ciclo);
         }
-        public void Aguarda(int segundos)
+        public void AguardaId(string texto)
         {
-            System.Threading.Thread.Sleep(segundos);
+            EsperaCarregamento(By.Id(texto));
+        }
+        public void AguardaXPath(string texto)
+        {
+            EsperaCarregamento(By.XPath(texto));
         }
         public void ValidaTextoMensagem(string Texto , string Texto1 , string teste)
         {

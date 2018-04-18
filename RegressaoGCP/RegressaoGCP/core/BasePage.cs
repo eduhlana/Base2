@@ -51,7 +51,7 @@ namespace RegressaoGCP.core
         protected void EsperaCarregamento(By Element)
         {
             WebDriverWait wait = new WebDriverWait(DriverFactory.GetDriver(),
-                TimeSpan.FromSeconds(30));
+                TimeSpan.FromSeconds(10000));
 
             Func<IWebDriver, bool> waitForElement = new Func<IWebDriver, bool>
                 ((IWebDriver Web) => {
