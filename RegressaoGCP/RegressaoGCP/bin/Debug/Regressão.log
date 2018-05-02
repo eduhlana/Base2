@@ -1,16 +1,50 @@
-﻿testhost.x86.exe Information: 0 : 18/04/2018 15:41:23 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 16:33:55 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 16:34:38 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 16:34:54 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 16:54:12 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 16:55:33 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 16:58:46 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 16:59:14 - Aprovar Abrangência Comercial:  Existem abrangências não aprovadas: Verifique no arquivo gerado.
-testhost.x86.exe Information: 0 : 18/04/2018 17:00:11 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 17:00:44 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 17:03:40 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 17:04:24 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 17:04:30 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 17:08:13 - Cancelar Abrangência Comercial:  Registros cancelados com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 17:33:24 - Alterar ciclo final e salvar Abrangência Comercial:  Registro salvo com sucesso!
-testhost.x86.exe Information: 0 : 18/04/2018 17:34:41 - Excluir Rascunho Abrangência Comercial :  Registros excluídos com sucesso!
+﻿testhost.x86.exe Information: 0 : 27/04/2018 16:02:14 - Inserir Abrangência Comercial: Erro
+ A abrangência e vigência comercial informada já existe!
+Ok
+testhost.x86.exe Information: 0 : 27/04/2018 16:03:02 - Inserir Abrangência Comercial: Erro
+ A abrangência e vigência comercial informada já existe!
+Ok
+testhost.x86.exe Information: 0 : 27/04/2018 16:03:45 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:03:45 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:03:53 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:05:28 - Inserir Abrangência Comercial: Erro
+ A abrangência e vigência comercial informada já existe!
+Ok
+testhost.x86.exe Information: 0 : 27/04/2018 16:06:13 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:06:22 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:06:36 - Inserir Abrangência Logística: Erro
+ As vigências logísticas não devem ultrapassar a vigência comercial!
+Ok
+testhost.x86.exe Information: 0 : 27/04/2018 16:08:50 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:08:58 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:09:11 - Cancelar Abrangência Logística:  Registro cancelado com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:09:25 - Inserir Abrangência Logística: Erro
+ As vigências logísticas não devem ultrapassar a vigência comercial!
+Ok
+testhost.x86.exe Information: 0 : 27/04/2018 16:09:58 - Inserir Abrangência Comercial: Erro
+ A abrangência e vigência comercial informada já existe!
+Ok
+testhost.x86.exe Information: 0 : 27/04/2018 16:10:57 - Aprovar Abrangência Comercial:Nao existe registro para  aprovar
+testhost.x86.exe Information: 0 : 27/04/2018 16:12:08 - Cancelar Abrangência Logística:  Registro cancelado com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:25:22 - Inserir Abrangência Comercial: Erro
+ A abrangência e vigência comercial informada já existe!
+Ok
+testhost.x86.exe Information: 0 : 27/04/2018 16:25:57 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:26:06 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:26:12 - Cancelar Abrangência Comercial:  Registros cancelados com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:26:18 - Cancelar Abrangência Logística:Nao existe registro para  cancelar
+testhost.x86.exe Information: 0 : 27/04/2018 16:29:19 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:29:27 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:29:34 - Cancelar Abrangência Logística:Nao existe registro para  cancelar
+testhost.x86.exe Information: 0 : 27/04/2018 16:36:01 - Inserir Abrangência Comercial:  Registro salvo com sucesso!
+testhost.x86.exe Information: 0 : 27/04/2018 16:36:11 - Aprovar Abrangência Comercial:  Registros aprovados com sucesso!
+testhost.x86.exe Information: 0 : Nao existe abrangência comercial cadastrada para esse código de venda 
+testhost.x86.exe Information: 0 : Nao existe abrangência comercial cadastrada para esse código de venda 
+testhost.x86.exe Information: 0 : Nao existe abrangência comercial cadastrada para esse código de venda 
+testhost.x86.exe Information: 0 : 27/04/2018 17:23:00 - Cancelar Abrangência Logística:Nao existe registro para  cancelar
+testhost.x86.exe Information: 0 : 27/04/2018 17:26:27 - Cancelar Abrangência Logística:Nao existe registro para  cancelar
+testhost.x86.exe Information: 0 : 27/04/2018 17:28:42 - Cancelar Abrangência Logística:Nao existe registro para  cancelar
+testhost.x86.exe Information: 0 : Nao existe abrangência comercial cadastrada para esse código de venda 
+testhost.x86.exe Information: 0 : Nao existe abrangência comercial cadastrada para esse código de venda 
+testhost.x86.exe Information: 0 : Nao existe abrangência comercial cadastrada para esse código de venda 
+testhost.x86.exe Information: 0 : Nao existe abrangência comercial cadastrada para esse código de venda 

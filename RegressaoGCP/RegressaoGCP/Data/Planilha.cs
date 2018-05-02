@@ -11,6 +11,11 @@ namespace RegressaoGCP.Data
         public string Status { get; set; }
         public string CicloInicio { get; set; }
         public string CicloFim { get; set; }
+        public string Material{ get; set; }
+        public string Prioridade { get; set; }
+        public string Preco { get; set; }
+        public string Redutor { get; set; }
+        public string Motivo { get; set; }
 
     }
 }

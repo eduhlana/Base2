@@ -14,8 +14,7 @@ namespace RegressaoGCP.core
             if (driver == null)
             {
                 ChromeOptions options = new ChromeOptions();
-                //options.AddArguments("headless");
-                options.AddArguments("window-size=1920x1080");
+                options.AddArguments("-incognito");
                 driver = new ChromeDriver(options); 
             }
             return driver;

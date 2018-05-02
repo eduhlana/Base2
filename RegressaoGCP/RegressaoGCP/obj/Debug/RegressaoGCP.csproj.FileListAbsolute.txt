@@ -54,7 +54,6 @@ E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\xunit.abstractions.dll
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\xunit.assert.dll
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\xunit.core.dll
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\xunit.execution.desktop.dll
-E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\Dapper.xml
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\ExcelDataReader.xml
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\ExcelDataReader.DataSet.xml
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
@@ -65,7 +64,7 @@ E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\xunit.abstractions.xml
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\xunit.assert.xml
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\xunit.core.xml
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\bin\Debug\xunit.execution.desktop.xml
-E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\obj\Debug\RegressaoGCP.csprojResolveAssemblyReference.cache
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\obj\Debug\RegressaoGCP.csproj.CoreCompileInputs.cache
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\obj\Debug\RegressaoGCP.dll
 E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\obj\Debug\RegressaoGCP.pdb
+E:\RegressaoGCP\RegressaoGCP\RegressaoGCP\obj\Debug\RegressaoGCP.csprojResolveAssemblyReference.cache

@@ -38,14 +38,15 @@ namespace RegressaoGCP.page
         {
             EsperaCarregamento(By.XPath(texto));
         }
-        public void ValidaTextoMensagem(string Texto , string Texto1 , string teste)
+        public void ValidaTextoMensagem(string telaerro ,string Texto , string Texto1 , string teste)
         {
-            ValidaMensagemPopup(By.XPath(Texto),Texto1 , teste);
-
+            ValidaMensagemPopup(By.XPath(telaerro), By.XPath(Texto) ,Texto1 , teste);
+           
         }
-        public void SelecionaStatus(string Texto)
+        public void SelecionaStatus(string status )
         {
-            acao(By.XPath(Texto));
+            Status(By.XPath("//input[@name='statusAprovacao'and @value='"+status+"']"));
+
 
         }
         public void ConsultarAbrangencia(string Texto)
@@ -53,9 +54,9 @@ namespace RegressaoGCP.page
             acao(By.Id(Texto));
 
         }
-        public void SelecionaAbrangencia(string Texto)
+        public void SelecionaAbrangencia(string Texto , string acao ,string teste)
         {
-            acao(By.XPath(Texto));
+            SelecionaGrid(By.XPath(Texto) , acao ,teste);
 
         }
         public void Aprovar(string Texto)

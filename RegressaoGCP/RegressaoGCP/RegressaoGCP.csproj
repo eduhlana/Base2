@@ -87,7 +87,11 @@
     <Compile Include="Data\Planilha.cs" />
     <Compile Include="page\AbrangComercial.cs" />
     <Compile Include="page\AbrangComercialPage.cs" />
-    <Compile Include="TestAbrangComercial.cs" />
+    <Compile Include="page\AbrangenciaLogistica.cs" />
+    <Compile Include="page\AbrangenciaLogisticaPage.cs" />
+    <Compile Include="page\Preco.cs" />
+    <Compile Include="page\PrecoPage.cs" />
+    <Compile Include="TestRegressaoGCP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
